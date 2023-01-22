@@ -13,3 +13,5 @@ I spent about 1 day finishing the course, but about 3 days changing the website 
 🔹Pico CSS
 
 ### Project images
+![Screenshot 2023-01-21 231628](https://user-images.githubusercontent.com/90116997/213906655-0ab0f6a8-20fd-49d6-99f7-d4136abc4f3b.png)
+![Screenshot 2023-01-22 000316](https://user-images.githubusercontent.com/90116997/213906658-586ad740-5ffe-4160-9fc0-dacc0a474725.png)
